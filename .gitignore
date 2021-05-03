@@ -1,3 +1,13 @@
+# venv
+.venv_fad/*
+
+# vggish model
+data/vggish_model.ckpt
+
+# test folders
+test_audio/*
+stats/*
+
 # Compiled python modules.
 *.pyc
 
